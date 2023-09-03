@@ -1,12 +1,14 @@
 .logo{
     box-shadow: 10px 10px blue;
     border-radius: 10px;
+    width: 510px;
+    height: 510px;
 }
 *{
     font-family: 'Poppins', sans-serif;
 }
 .bootoon:hover{
-    color:white !important;
+    color:blue !important;
     background-color: black;
     width: 600px;
     border-radius: 15px;
