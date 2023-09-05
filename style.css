@@ -9,7 +9,6 @@
 .bootoon:hover{
     color:blue !important;
     background-color: black;
-    width: 600px;
     border-radius: 15px;
     color:white;
     font-size: 30px;
@@ -19,7 +18,6 @@
 }.bootoon{
     color: white !important;
     background-color: #3b31ad;
-    width: 600px;
     border-radius: 15px;
     color:white;
     font-size: 30px;
@@ -27,6 +25,7 @@
     padding-left: 20px;
     padding-right: 20px;
     text-decoration: none !important;
+    border-color: #3b31ad;
     
 }
 .line {
