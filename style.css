@@ -40,3 +40,21 @@
     height:100%;
     background-color: white;
 }
+#meh{
+    width:350px;
+    border-radius: 50%;
+}
+.others{
+    border-radius: 50%;
+    width:150px;
+}
+.pfp{
+    width: 500px;
+    overflow: hidden;
+}
+.pfp1{
+    float:left;
+} 
+.pfp2{
+    overflow: hidden;
+}
